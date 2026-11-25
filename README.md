@@ -17,7 +17,7 @@ Ignition — это Android-приложение, которое удалённ�
 | Что | Где взять | Кому |
 |-----|-----------|------|
 | **Приложение** (APK) | [**Скачать Ignition.apk**](https://github.com/dangerkislyak/ignition/releases/latest/download/Ignition.apk) | телефон |
-| **Агент** (Windows) | [`agent/ignition-agent.exe`](agent/ignition-agent.exe) | ПК |
+| **Агент** (Windows) | [**Скачать ignition-agent.exe**](https://github.com/dangerkislyak/ignition/releases/latest/download/ignition-agent.exe) | ПК |
 
 - Приложение — минимальная версия Android **12**.
 - Агент — для **Windows**. Ничего доустанавливать не нужно: это один `.exe` файл.
